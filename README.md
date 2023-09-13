@@ -1,4 +1,4 @@
-# Steam-Deck.Mount-External-Drive
+# ChimeraOS.Mount-External-Drive
 Scripts to Auto-Mount (and to Manually mount & unmount from `GameMode`) External USB SSD on the Steam Deck
 
 # How does this work?
